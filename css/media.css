@@ -1,0 +1,61 @@
+@media screen and (min-width: 768px) and (max-width: 768px) {
+    .right-site {
+        display: none;
+    }
+
+    .header-top,
+    .header,
+    .middle,
+    .shop,
+    .main-info {
+        max-width: 768px;
+    }
+
+
+
+    .header-top-dropdown {
+        margin-left: 30px;
+    }
+
+    .logo {
+        width: 296px;
+    }
+
+    .work-schedule {
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 18px;
+        text-align: right;
+        color: #0F2438;
+    }
+
+    .work-schedule img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .height-content {
+        height: 70px;
+    }
+
+    .main-content {
+        height: 43;
+    }
+
+    .container {
+        max-width: 768px;
+    }
+
+    .search {
+        width: 380px;
+    }
+
+    .catalog-btn {
+        width: 43px;
+        height: 43px;
+    }
+
+    .catalog-btn p {
+        display: none;
+    }
+}
